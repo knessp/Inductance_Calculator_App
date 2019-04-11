@@ -6,4 +6,5 @@ In the code repository, the file 'Inductance_Calc_App_MainScreen_redacted.java' 
 The app uses the discrete Neumann method to find the mutual inductance between two curves. The Neumann method provides an exact solution to the mutual inductance, assuming the curves are infinitely thin. Discretizing the Neumann formula in order to solve for any shapes provides a very accurate approximation to the mutual inductance.
 
 Link to working project: https://play.google.com/store/apps/details?id=com.ookttah.philip.mutualinductance
+
 Link to free version (same functionality but includes ads) of working project: https://play.google.com/store/apps/details?id=com.ookttah.philip.mutualinductanceWithAds
